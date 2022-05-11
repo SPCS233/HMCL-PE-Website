@@ -1,0 +1,47 @@
+
+.d {
+background-color: #5c6bc0;
+border-radius: 8px;
+border: none;
+color: white;
+padding: 7px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+.w {
+text-align: center;
+text-decoration: none;
+border: none;
+color: white;
+}
+.l {
+text-align: center;
+text-indent : 90px;/*鬼知道怎么用*/
+text-decoration: none;
+border: none;
+color: #5c6bc0;
+}
+.k {
+border:1px solid #5c6bc0;
+border-radius:3px;
+padding: 2px;
+}
+.f{
+text-align: left;
+}
+.i:before{
+ content:"                         ";
+ white-space: pre;
+}
+.imag {
+ object-fit: contain;
+max-width:100%;
+border-radius:1px;
+max-height:100%;
+
+width:auto;
+
+height:auto;
+}
